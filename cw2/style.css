@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+.sub{
+    display:flex;justify-content: space-around;
+}
+
+  .gif{
+      width: 75px;
+      height:75px ;
+      background-color: powderblue;
+  }
+  .classe{
+      display: flex;
+justify-content: space-around;  
+padding: 20px;}
+.classa{
+    text-align: right;
+    padding: 20px;
+}
+
